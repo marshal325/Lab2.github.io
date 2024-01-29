@@ -1,7 +1,7 @@
 # Lab2.github.io
 
 # Shuai Yuan
-# Lab2 Research Narrative on YouTube Content Analysis
+# Lab2 Narrative on YouTube Content Analysis
 
 ## Introduction
 This research project aims to analyze the themes and topics prevalent in various YouTube videos. I focused on three topics: pop music, US news, and content related to the University of Washington. By employing web scraping techniques, I gathered data from YouTube using specific search parameters and then visualized this data through word clouds.
